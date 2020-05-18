@@ -14,7 +14,7 @@ FreeCAD Confugurators allow you to quickly generate 3D models with similar attri
 
 To use a configurator you open it in FreeCAD, open the Spreadsheet "specification" and set the predefined parameters to your desired value. Not all combinations of parameter values are valid to rebuild the model without problems. After setting the desired parameter values the updated 3D model can be examined in the 3D View of FreeCAD. 
 
-Hint: With the function window -> arrange in the FreeCAD menu the 3D model and the Spreadsheet can be viewed simultaneously
+*Hint:* With the function window -> arrange in the FreeCAD menu the 3D model and the Spreadsheet can be viewed simultaneously
 
 At last but not least the 3D model can be exported as a STEP file to use it in other applications.
 
