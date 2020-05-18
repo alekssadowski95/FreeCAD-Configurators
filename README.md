@@ -23,7 +23,7 @@ In order to run these configurators you need to have installed the latest stable
 * **Aleksander Sadowski** - *Some of the configurators* - (https://github.com/alekssadowski95)
 * **Dariusz Broniewicz** - *Some of the configurators*
 
-Look into the license-file of each configurator to find out who has made it.
+Look into the license file of each configurator to find out who has made it.
 
 ## License
 
