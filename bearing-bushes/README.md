@@ -7,7 +7,7 @@
 * **Aleksander Sadowski** - (https://github.com/alekssadowski95)
 
 ## License
-The bearing bushes configurators in this folder are licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The bearing bushes configurators in this folder are licensed under the BSD 3-Clause License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
