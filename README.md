@@ -36,6 +36,9 @@ Look into the license file of each configurator to find out who has made it.
 
 Each specific configurator is licensed under its own license. Each configurator is in its own folder. For information on the license of each configurator look into the corresponding folder of the configurator in question. - see the [LICENSE.md](LICENSE.md) file for details
 
+Configurators:
+*Bearing Bushes* - see the [LICENSE.md](bearing-bushes/LICENSE.md) file for details
+
 ## Acknowledgments
 
 FreeCAD is Amazing!
