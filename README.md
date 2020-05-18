@@ -22,6 +22,9 @@ At last but not least the 3D model can be exported as a STEP file to use it in o
 
 In order to run these configurators you need to have installed the latest stable version of FreeCAD, but at least version 0.18.4
 
+You can get FreeCAD here:
+https://www.freecadweb.org/downloads.php
+
 ## Authors
 
 * **Aleksander Sadowski** - *Some of the configurators* - (https://github.com/alekssadowski95)
