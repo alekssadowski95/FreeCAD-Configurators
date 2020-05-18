@@ -8,6 +8,8 @@ FreeCAD Configurators are parametric 3D models made in FreeCAD that have a set o
 
 ## Why use FreeCAD Configurators
 
+[What are the benefits of using a configurator]
+
 ## Getting Started
 
 [Descripe how to use one FreeCAD Configurator]
@@ -22,7 +24,7 @@ In order to run these configurators you need to have installed the latest stable
 
 ## License
 
-Each specific configurator is license under its own license. Each configurator has its own folder. For information in the license of each configurator look into the configurator-folder.
+Each specific configurator is licensed under its own license. Each configurator is in its own folder. For information on the license of each configurator look into the coresponding folder of the configurator of question.
 
 ## Acknowledgments
 
