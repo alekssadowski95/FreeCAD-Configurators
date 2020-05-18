@@ -1,4 +1,4 @@
-# Bearing bushes - CAD Configurator
+# Bearing bushes - FreeCAD Configurator
 
 [image with multiplke variations of bearing bushes generated with a FreeCAD Configurator]
 
