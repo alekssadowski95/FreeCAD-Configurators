@@ -6,7 +6,7 @@ FreeCAD Configurators are parametric 3D models made in FreeCAD that have a set o
 
 ## Why use FreeCAD Configurators
 
-[Image of FreeCAD Configurator]
+![](images/freecad-simple-example.png)
 
 FreeCAD Confugurators allow you to quickly generate 3D models with similar attributes but different values of those attributes. CAD Configurators are generally used to capture the knowledge of products, parts and 3d models and to accelerate the development in mechanical engineering.
 
