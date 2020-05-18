@@ -12,7 +12,7 @@ FreeCAD Confugurators allow you to quickly generate 3D models with similar attri
 
 ## Getting Started
 
-[Descripe how to use one FreeCAD Configurator]
+To use a configurator you open it in FreeCAD, open the Spreadsheet "specification" and set the predefined parameters to your desired value. Not all combinations of parameter values are valid to rebuild the model without problems. After setting the desired parameter values the updated 3D model can be examined in the 3D View of FreeCAD. At last ut not least the 3D model can be exported as a STEP file to use it in other applications.
 
 ### Prerequisites
 
