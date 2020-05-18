@@ -2,11 +2,11 @@
 
 FreeCAD Configurators are parametric 3D models made in FreeCAD that have a set of user-modifiable predefined parameters.
 
-[Image of FreeCAD Configurator]
-
 [image with multiplke variations of 3D models generated with a FreeCAD Configurator]
 
 ## Why use FreeCAD Configurators
+
+[Image of FreeCAD Configurator]
 
 [What are the benefits of using a configurator]
 
