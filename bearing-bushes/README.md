@@ -1,6 +1,6 @@
 # Bearing bushes - FreeCAD Configurator
 
-![](images/mockup-configurator-variations-small.png)
+![](../images/mockup-configurator-variations-small.png)
 
 ## Authors
 
