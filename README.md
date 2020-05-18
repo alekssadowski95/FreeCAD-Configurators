@@ -2,7 +2,7 @@
 
 FreeCAD Configurators are parametric 3D models made in FreeCAD that have a set of user-modifiable predefined parameters.
 
-![](images/mockup-configurator-variations.png)
+![](images/mockup-configurator-variations-small.png)
 
 ## Why use FreeCAD Configurators
 
