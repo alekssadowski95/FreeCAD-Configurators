@@ -20,7 +20,10 @@ In order to run these configurators you need to have installed the latest stable
 
 ## Authors
 
-* **Aleksander Sadowski** - *Initial work* - (https://github.com/alekssadowski95)
+* **Aleksander Sadowski** - *Some of the configurators* - (https://github.com/alekssadowski95)
+* **Dariusz Broniewicz** - *Some of the configurators*
+
+Look into the license-file of each configurator to find out who has made it.
 
 ## License
 
