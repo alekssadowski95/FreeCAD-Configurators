@@ -39,6 +39,7 @@ Each specific configurator is licensed under its own license. Each configurator 
 Configurators:
 
 **Production Hall** - see the [LICENSE.md](production-hall/LICENSE.md) file for details
+
 **Bearing Bushes** - see the [LICENSE.md](bearing-bushes/LICENSE.md) file for details
 
 ## Acknowledgments
