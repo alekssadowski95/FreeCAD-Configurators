@@ -3,7 +3,7 @@
 ![](../images/hall-parameter-animation.gif)
 
 ## How to use
-This Production hall configurator was created to help in the layout of machine positions in production halls. The model generated with this production hall generator should never be used for structural calculations. The use of this production hall generator for structural calculations may lead to damage, severe injuries or death
+This Production hall configurator was created to help in the layout of machine positions in production halls. The model generated with this production hall configurator should never be used for structural calculations. The use of models, generated with this production hall configurator, for structural calculations may lead to damage, severe injuries or death
 
 ## Authors
 
