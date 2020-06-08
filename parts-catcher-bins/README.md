@@ -3,7 +3,7 @@
 ![](../images/Unbenannt1.gif)
 
 ## How to use
-This parts catcher bins configurator was created to help in the quality control process in production of cnc turned parts.
+This parts catcher bins configurator was created to help in the quality control process in production of cnc turned parts. The parts catcher bins are intended to be 3D printed. Each bin is getting printed separatelly.
 
 ![](../images/Unbenannt4.png)
 
