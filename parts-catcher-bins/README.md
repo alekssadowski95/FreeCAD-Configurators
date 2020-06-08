@@ -1,11 +1,11 @@
 # Parts catcher bins - FreeCAD Configurator
 
-![](../images/container-array.png)
+![](../images/Unbenannt1.gif)
 
 ## How to use
 This parts catcher bins configurator was created to help in the quality control process in production of cnc turned parts.
 
-![](../images/container.png)
+![](../images/Unbenannt4.png)
 
 ## Authors
 
