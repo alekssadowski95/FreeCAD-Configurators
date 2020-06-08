@@ -38,6 +38,8 @@ Each specific configurator is licensed under its own license. Each configurator 
 
 Configurators:
 
+**Parts Catcher Bins** - see the [LICENSE.md](parts-catcher-bins/LICENSE.md) file for details
+
 **Production Hall** - see the [LICENSE.md](production-hall/LICENSE.md) file for details
 
 **Bearing Bushes** - see the [LICENSE.md](bearing-bushes/LICENSE.md) file for details
