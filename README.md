@@ -37,6 +37,8 @@ Each specific configurator is licensed under its own license. Each configurator 
 
 Configurators:
 
+**Minigrip Vise Clamps** - see the [LICENSE.md](minigrip-vise-clamps/LICENSE.md) file for details
+
 **Parts Catcher Bins** - see the [LICENSE.md](parts-catcher-bins/LICENSE.md) file for details
 
 **Production Hall** - see the [LICENSE.md](production-hall/LICENSE.md) file for details
