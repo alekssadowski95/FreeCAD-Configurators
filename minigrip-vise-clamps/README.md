@@ -1,5 +1,7 @@
 # Minigrip vise clamps - Prodictivity solution for small cnc milling machines
 ![](../images/minigrip-logo-background.png)
+
+
 ![](../images/Unbenannt-en.png)
 
 ## How to use
