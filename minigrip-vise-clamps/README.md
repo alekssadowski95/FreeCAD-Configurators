@@ -28,9 +28,9 @@ Create the production toolpaths and mill the minigrip vise clamps yourself
 * **Aleksander Sadowski** - (https://github.com/alekssadowski95)
 
 ## License
-The minigrip vose clamps configurator (*.FCStd file) in this folder is licensed under the BSD 3-Clause License. - see the [LICENSE.md](LICENSE.md) file for details 
+The minigrip vise clamps configurator (*.FCStd file) in this folder is licensed under the BSD 3-Clause License. - see the [LICENSE.md](LICENSE.md) file for details 
 
-The documentation of the minigrip vose clamps configurator, including the manual but not limited to the manual, is licensed under a different license - see the [LICENSE.md](LICENSE.md) file for details
+The documentation of the minigrip vise clamps configurator, including the manual but not limited to the manual, is licensed under a different license - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
