@@ -20,7 +20,7 @@
 **Create the production toolpaths and mill the minigrip vise clamps yourself**
 
 
-![](../images/minigrip-set-2.png)
+![](../images/minigrip-digital-transformation.png)
 
 ## Authors
 
