@@ -5,19 +5,19 @@
 ![](../images/Unbenannt-en.png)
 
 ## How to use
-Set the parameters of the minigrip vise clamps that fit your specific vise.
+**Set the parameters of the minigrip vise clamps that fit your specific vise.**
 
 
 ![](../images/minigrip-freecad-parameters.png)
 
 
-Automatically Generate the production drawing and export it as a PDF-file
+**Automatically Generate the production drawing and export it as a PDF-file**
 
 
 ![](../images/minigrip-freecad-drawing.png)
 
 
-Create the production toolpaths and mill the minigrip vise clamps yourself
+**Create the production toolpaths and mill the minigrip vise clamps yourself**
 
 
 ![](../images/minigrip-set-2.png)
