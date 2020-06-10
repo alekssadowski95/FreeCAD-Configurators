@@ -2,7 +2,7 @@
 ![](../images/epoxy-granite-machine-base-2.png)
 
 ## How to use
-**Set the parameters of the epoxy granite machine base and use your own epoxy granite machine base model in your applications of need.**
+Set the parameters of the epoxy granite machine base and use your own epoxy granite machine base model in your applications of need.
 
 ![](../images/epoxy-machine-base-1.gif)
 
