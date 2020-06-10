@@ -21,13 +21,13 @@ These are the available FreeCAD configurators
 
 [**Epoxy Granite Machine Base**](epoxy-granite-base/)
 
-**Minigrip Vise Clamps** - see the [LICENSE.md](minigrip-vise-clamps/LICENSE.md) file for details
+[**Minigrip Vise Clamps**](minigrip-vise-clamps/)
 
-**Parts Catcher Bins** - see the [LICENSE.md](parts-catcher-bins/LICENSE.md) file for details
+[**Parts Catcher Bins**] (parts-catcher-bins/)
 
-**Production Hall** - see the [LICENSE.md](production-hall/LICENSE.md) file for details
+[**Production Hall**](production-hall/)
 
-**Bearing Bushes** - see the [LICENSE.md](bearing-bushes/LICENSE.md) file for details
+[**Bearing Bushes**](bearing-bushes/)
 
 ### Prerequisites
 
