@@ -37,7 +37,7 @@ Each specific configurator is licensed under its own license. Each configurator 
 
 Configurators:
 
-**Epoxy Granite Machine Base** - see the [LICENSE.md](epoxy-granite-machine-base/LICENSE.md) file for details
+**Epoxy Granite Machine Base** - see the [LICENSE.md](epoxy-granite-base/LICENSE.md) file for details
 
 **Minigrip Vise Clamps** - see the [LICENSE.md](minigrip-vise-clamps/LICENSE.md) file for details
 
