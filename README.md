@@ -19,7 +19,7 @@ At last but not least the 3D model can be exported as a STEP file to use it in o
 
 These are the available FreeCAD configurators
 
-[**Epoxy Granite Machine Base**] - (epoxy-granite-base/)
+[**Epoxy Granite Machine Base**](epoxy-granite-base/)
 
 **Minigrip Vise Clamps** - see the [LICENSE.md](minigrip-vise-clamps/LICENSE.md) file for details
 
