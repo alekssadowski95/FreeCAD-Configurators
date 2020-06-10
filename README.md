@@ -23,7 +23,7 @@ These are the available FreeCAD configurators
 
 [**Minigrip Vise Clamps**](minigrip-vise-clamps/)
 
-[**Parts Catcher Bins**] (parts-catcher-bins/)
+[**Parts Catcher Bins**](parts-catcher-bins/)
 
 [**Production Hall**](production-hall/)
 
