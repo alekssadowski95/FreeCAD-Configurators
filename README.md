@@ -17,6 +17,18 @@ To use a configurator you open it in FreeCAD, open the Spreadsheet "specificatio
 
 At last but not least the 3D model can be exported as a STEP file to use it in other applications.
 
+These are the available FreeCAD configurators
+
+[**Epoxy Granite Machine Base**] - (epoxy-granite-base/)
+
+**Minigrip Vise Clamps** - see the [LICENSE.md](minigrip-vise-clamps/LICENSE.md) file for details
+
+**Parts Catcher Bins** - see the [LICENSE.md](parts-catcher-bins/LICENSE.md) file for details
+
+**Production Hall** - see the [LICENSE.md](production-hall/LICENSE.md) file for details
+
+**Bearing Bushes** - see the [LICENSE.md](bearing-bushes/LICENSE.md) file for details
+
 ### Prerequisites
 
 In order to run these configurators you need to have installed the latest stable version of FreeCAD, but at least version 0.18.4
@@ -35,7 +47,6 @@ Look into the license file of each configurator to find out who has made it.
 
 Each specific configurator is licensed under its own license. Each configurator is in its own folder. For information on the license of each configurator look into the corresponding folder of the configurator in question or klick on the coresponding link below. - see the [LICENSE.md](LICENSE.md) file for details
 
-Configurators:
 
 **Epoxy Granite Machine Base** - see the [LICENSE.md](epoxy-granite-base/LICENSE.md) file for details
 
