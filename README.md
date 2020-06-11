@@ -17,17 +17,22 @@ To use a configurator you open it in FreeCAD, open the Spreadsheet "specificatio
 
 At last but not least the 3D model can be exported as a STEP file to use it in other applications.
 
-These are the available FreeCAD configurators
+These are the available FreeCAD configurators:
 
 [**Epoxy Granite Machine Base**](epoxy-granite-base/)
+The epoxy granite machine base configurator was created to get hobby machine builders started with development. The 3d model can be used to calculate the amount of epoxy granite material needed for the build and the weight of the final part.
 
 [**Minigrip Vise Clamps**](minigrip-vise-clamps/)
+The minigrip vise clamps solve the problem of limited space and not beeing able to mount two vises on small cnc milling machines.
 
 [**Parts Catcher Bins**](parts-catcher-bins/)
+The parts catcher bins configurator was created to help in the quality control process in production of small cnc turned parts.
 
 [**Production Hall**](production-hall/)
+The Production hall configurator was created to help in layout of machine positions in production halls.
 
 [**Bearing Bushes**](bearing-bushes/)
+This configurator was created as a sample projekct to intruduce people into the concept of parametric 3d models.
 
 ### Prerequisites
 
