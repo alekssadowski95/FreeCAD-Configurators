@@ -8,13 +8,12 @@
 **Set the parameters of the watch case through the spreadsheet.**
 
 
-![](../images/minigrip-freecad-parameters.png)
 
 
 **Export the 3D model for 3D printing**
 
 
-![](../images/watch-3d-print.png)
+![](../images/watch-case-parameters.png)
 
 
 **3D print your individual watch case at home**
