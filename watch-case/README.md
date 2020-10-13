@@ -1,4 +1,8 @@
 # 3D printable watch case 
+
+This is my 3d printable watch case configurator for seiko NH35A movements. It is intended as a gimmick for tinkerers.
+
+
 ![](../images/watch-case-1.png)
 
 
@@ -7,13 +11,13 @@
 ## How to use
 **Set the parameters of the watch case through the spreadsheet.**
 
-
+![](../images/watch-case-parameters.png)
 
 
 **Export the 3D model for 3D printing**
 
 
-![](../images/watch-case-parameters.png)
+![](../images/watch-3d-print.png)
 
 
 **3D print your individual watch case at home**
