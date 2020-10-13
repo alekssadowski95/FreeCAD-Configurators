@@ -39,6 +39,10 @@ The Production hall configurator was created to help in layout of machine positi
 
 This configurator was created as a sample projekct to intruduce people into the concept of parametric 3d models.
 
+[**3D printable watch case**](watch-case/)
+
+A 3D printable watch case for the modding community of seiko watches.
+
 ### Prerequisites
 
 In order to run these configurators you need to have installed the latest stable version of FreeCAD, but at least version 0.18.4
