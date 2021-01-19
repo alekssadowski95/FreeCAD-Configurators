@@ -34,7 +34,7 @@ This is my 3d printable watch case configurator for seiko NH35A movements. It is
 ## License
 The 3d printable watch case configurator (*.FCStd file) in this folder is licensed under the BSD 3-Clause License. - see the [LICENSE.md](LICENSE.md) file for details 
 
-The documentation of the minigrip vise clamps configurator, including the manual but not limited to the manual, is licensed under a different license - see the [LICENSE.md](LICENSE.md) file for details
+The documentation of the 3d printable watch case configurator, including the manual but not limited to the manual, is licensed under a different license - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
